@@ -1,2 +1,6 @@
 testi5
+<<<<<<< HEAD
 edit
+=======
+remote edit
+>>>>>>> 2c5cdb17746e9de3763ffd4cad0e5baa6d7b52fa
